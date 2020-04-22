@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{B648CAD5-B837-44A4-BEED-A9DD8B90F7DD}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.SecondProjectQA PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.UITest FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="packages/Xamarin.UITest.POP.1.0.0/readme.txt">
+    <Files>
+      <File FileName="packages/Xamarin.UITest.POP.1.0.0/readme.txt" Line="5" Column="19" />
+      <File FileName="UITest/PlatformQuery.cs" Line="1" Column="1" />
+      <File FileName="UITest/packages.config" Line="6" Column="12" />
+      <File FileName="UITest/BaseTestFixture.cs" Line="1" Column="1" />
+      <File FileName="UITest/BasePage.cs" Line="1" Column="1" />
+      <File FileName="UITest/AppManager.cs" Line="1" Column="1" />
+      <File FileName="UITest/Tests.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SecondProjectQA" expanded="True">
+            <Node name="SecondProjectQA" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+            <Node name="UITest" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Tests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/bin/Debug/SecondProjectQA.dll
+/Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/bin/Debug/SecondProjectQA.pdb
+/Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/bin/Debug/nunit.framework.dll
+/Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/bin/Debug/Xamarin.UITest.dll
+/Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/bin/Debug/nunit.framework.pdb
+/Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/bin/Debug/nunit.framework.xml
+/Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/bin/Debug/Xamarin.UITest.xml
+/Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/obj/Debug/SecondProjectQA.csprojAssemblyReference.cache
+/Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/obj/Debug/SecondProjectQA.csproj.CopyComplete
+/Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/obj/Debug/SecondProjectQA.dll
+/Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/obj/Debug/SecondProjectQA.pdb
