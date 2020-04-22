@@ -1,15 +1,15 @@
-﻿<Properties StartupConfiguration="{B648CAD5-B837-44A4-BEED-A9DD8B90F7DD}|Unit Tests">
+﻿<Properties>
   <MonoDevelop.Ide.ItemProperties.SecondProjectQA PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.UITest FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="packages/Xamarin.UITest.POP.1.0.0/readme.txt">
+  <MonoDevelop.Ide.ItemProperties.UITest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UITest/Tests.cs">
     <Files>
-      <File FileName="packages/Xamarin.UITest.POP.1.0.0/readme.txt" Line="5" Column="19" />
-      <File FileName="UITest/PlatformQuery.cs" Line="1" Column="1" />
-      <File FileName="UITest/packages.config" Line="6" Column="12" />
-      <File FileName="UITest/BaseTestFixture.cs" Line="1" Column="1" />
-      <File FileName="UITest/BasePage.cs" Line="1" Column="1" />
-      <File FileName="UITest/AppManager.cs" Line="1" Column="1" />
-      <File FileName="UITest/Tests.cs" Line="1" Column="1" />
+      <File FileName="packages/Xamarin.UITest.POP.1.0.0/readme.txt" Line="9" Column="51" />
+      <File FileName="UITest/PlatformQuery.cs" />
+      <File FileName="UITest/packages.config" />
+      <File FileName="UITest/BaseTestFixture.cs" />
+      <File FileName="UITest/BasePage.cs" />
+      <File FileName="UITest/AppManager.cs" />
+      <File FileName="UITest/Tests.cs" Line="33" Column="8" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,10 +19,14 @@
               <Node name="References" expanded="True" />
             </Node>
             <Node name="UITest" expanded="True">
-              <Node name="References" expanded="True" />
               <Node name="Tests.cs" selected="True" />
             </Node>
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SecondProjectQA" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>

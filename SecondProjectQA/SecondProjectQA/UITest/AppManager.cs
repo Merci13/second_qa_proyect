@@ -5,6 +5,7 @@ namespace UITest
 {
     static class AppManager
     {
+        const string apkPath = "‎../apk/Trello.apk";
         static IApp app;
         public static IApp App
         {
@@ -31,6 +32,8 @@ namespace UITest
                 platform = value;
             }
         }
+                    // Used to run a .apk file:
+                    //.ApkFile("path/to/file.apk")
 
         public static void StartApp()
         {
@@ -38,21 +41,20 @@ namespace UITest
             {
                 app = ConfigureApp
                     .Android
-                    // Used to run a .apk file:
-                    //.ApkFile("path/to/file.apk")
+                    .ApkFile(apkPath)
                     .StartApp();
             }
 
-            if (Platform == Platform.iOS)
-            {
-                app = ConfigureApp
-                    .iOS
-                    // Used to run a .app file on an ios simulator:
-                    //.AppBundle("path/to/file.app")
-                    // Used to run a .ipa file on a physical ios device:
-                    //.InstalledApp("com.company.bundleid")
-                    .StartApp();
-            }
+            //if (Platform == Platform.iOS)
+            //{
+            //    app = ConfigureApp
+            //        .iOS
+            //        // Used to run a .app file on an ios simulator:
+            //        //.AppBundle("path/to/file.app")
+            //        // Used to run a .ipa file on a physical ios device:
+            //        //.InstalledApp("com.company.bundleid")
+            //        .StartApp();
+            //}
         }
     }
 }

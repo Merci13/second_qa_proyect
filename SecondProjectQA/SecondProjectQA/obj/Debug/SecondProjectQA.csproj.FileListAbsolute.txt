@@ -9,3 +9,4 @@
 /Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/obj/Debug/SecondProjectQA.csproj.CopyComplete
 /Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/obj/Debug/SecondProjectQA.dll
 /Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/obj/Debug/SecondProjectQA.pdb
+/Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/obj/Debug/SecondProjectQA.csproj.CoreCompileInputs.cache

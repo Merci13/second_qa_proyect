@@ -1,0 +1,12 @@
+/Users/josue/Documents/GitHub/second_qa_proyect/sample/sample/bin/Debug/sample.dll
+/Users/josue/Documents/GitHub/second_qa_proyect/sample/sample/bin/Debug/sample.pdb
+/Users/josue/Documents/GitHub/second_qa_proyect/sample/sample/bin/Debug/nunit.framework.dll
+/Users/josue/Documents/GitHub/second_qa_proyect/sample/sample/bin/Debug/Xamarin.UITest.dll
+/Users/josue/Documents/GitHub/second_qa_proyect/sample/sample/bin/Debug/nunit.framework.pdb
+/Users/josue/Documents/GitHub/second_qa_proyect/sample/sample/bin/Debug/nunit.framework.xml
+/Users/josue/Documents/GitHub/second_qa_proyect/sample/sample/bin/Debug/Xamarin.UITest.xml
+/Users/josue/Documents/GitHub/second_qa_proyect/sample/sample/obj/Debug/sample.csprojAssemblyReference.cache
+/Users/josue/Documents/GitHub/second_qa_proyect/sample/sample/obj/Debug/sample.csproj.CoreCompileInputs.cache
+/Users/josue/Documents/GitHub/second_qa_proyect/sample/sample/obj/Debug/sample.csproj.CopyComplete
+/Users/josue/Documents/GitHub/second_qa_proyect/sample/sample/obj/Debug/sample.dll
+/Users/josue/Documents/GitHub/second_qa_proyect/sample/sample/obj/Debug/sample.pdb

@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{B648CAD5-B837-44A4-BEED-A9DD8B90F7DD}|Unit Tests">
+﻿<Properties>
   <MonoDevelop.Ide.ItemProperties.SecondProjectQA PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="SecondProjectQA/Tests.cs">
     <Files>
@@ -10,13 +10,10 @@
           <Node name="SecondProjectQA" expanded="True">
             <Node name="SecondProjectQA" expanded="True">
               <Node name="References" expanded="True" />
-              <Node name="Packages" expanded="True" selected="True" />
+              <Node name="PlatformQuery.cs" selected="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">

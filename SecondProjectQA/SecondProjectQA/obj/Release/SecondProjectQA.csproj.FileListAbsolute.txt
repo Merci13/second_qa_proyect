@@ -1,0 +1,9 @@
+/Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/bin/Release/SecondProjectQA.dll
+/Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/bin/Release/nunit.framework.dll
+/Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/bin/Release/Xamarin.UITest.dll
+/Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/bin/Release/nunit.framework.pdb
+/Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/bin/Release/nunit.framework.xml
+/Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/bin/Release/Xamarin.UITest.xml
+/Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/obj/Release/SecondProjectQA.csproj.CoreCompileInputs.cache
+/Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/obj/Release/SecondProjectQA.csproj.CopyComplete
+/Users/josue/Documents/GitHub/second_qa_proyect/SecondProjectQA/SecondProjectQA/obj/Release/SecondProjectQA.dll

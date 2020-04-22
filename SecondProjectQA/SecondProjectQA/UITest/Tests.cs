@@ -9,20 +9,20 @@ namespace UITest
 {
     [TestFixture(Platform.Android)]
     [TestFixture(Platform.iOS)]
-    public class Tests: BasePage
+    public class Tests 
     {
         IApp app;
         Platform platform;
 
-        public Tests(Platform platform)
-        {
-            this.platform = platform;
-        }
+        //public Tests(Platform platform)
+        //{
+        //    this.platform = platform;
+        //}
 
         [SetUp]
         public void BeforeEachTest()
         {
-            app = AppInitializer.StartApp(platform);
+          //  app = AppInitializer.StartApp(platform);
         }
 
         [Test]
@@ -30,5 +30,6 @@ namespace UITest
         {
             app.Screenshot("First screen.");
         }
+       
     }
 }
