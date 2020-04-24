@@ -43,6 +43,10 @@
     <Compile Include="Pages\LoginPage.cs" />
     <Compile Include="TestEmailOrUser.cs" />
     <Compile Include="Pages\EmailOrUserPage.cs" />
+    <Compile Include="Pages\AddCardToTestBoardPage.cs" />
+    <Compile Include="addCardToTestBoardPageTest.cs" />
+    <Compile Include="AddListTest.cs" />
+    <Compile Include="Pages\AddListToBoardPage.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

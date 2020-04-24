@@ -10,6 +10,8 @@ namespace sample.Pages
         readonly Query nextButton;
         readonly Query passwordTextField;
         readonly Query logInButton;
+     
+
 
 
         protected override PlatformQuery Trait => new PlatformQuery
@@ -28,30 +30,37 @@ namespace sample.Pages
                 userOrEmailTextField = x => x.Id("user");
                 nextButton = x => x.Id("authenticate");
                 passwordTextField = x => x.Id("password");
-                logInButton = x => x.Text("Log in");
+                logInButton = x => x.Id("authenticate");
+             
 
             }
         }
 
         public void addTextToEmailOrUserNameTextField() {
             app.WaitForElement(userOrEmailTextField);
-            app.EnterText("xxtestforxamarinxx@gmail.com"); //use your email to make the log in
+            app.EnterText("xamarintestproyectjorgeramiro@test.com"); //use your email to make the log in
             app.WaitForElement(nextButton);
             app.Tap(nextButton);
-            app.Repl();
             addPassword();
 
-        }
+            //xamarintestproyectjorgeramiro@test.com
 
+            //here the tester needs to click on the continue button
+            // app.Repl();
+            //addPassword();
+
+        }
+        //this section could appear, sometimes during creating this test apper this window
         public void addPassword() {
                 app.WaitForElement(passwordTextField);
             app.EnterText("10a29b38c");//pasword for this account: 10a29b38c
             app.WaitForElement(logInButton);
             app.Tap(logInButton);
-
-
+           // it will create a new board
+          
         }
 
+       
         
     }
 }

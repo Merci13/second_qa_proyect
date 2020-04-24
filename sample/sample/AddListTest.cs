@@ -7,26 +7,26 @@ namespace sample
 {
     //Fixture used for Android
     [TestFixture(Platform.Android)]
-    public class TestEmailOrUser : BaseTestFixture
+    public class AddListTest : BaseTestFixture
     {
-        public TestEmailOrUser(Platform platform): base(platform)
-        {
 
+        public AddListTest(Platform platform) : base(platform)
+        {
 
         }
-         [Test]
-        public void ClickNextButtonToLogIn()
+
+        [Test]
+        public void ClickOnTestBoard()
         {
-     
+
             new LoginPage().SelectLoginButton();
             // new EmailOrUserPage().SelectLoginButton();
             new EmailOrUserPage().addTextToEmailOrUserNameTextField();
-           //   app.Repl();
-           
+            new AddCardToTestBoardPage().ClickTestBoard();
+            new AddListToBoardPage().AddListToBoardAction();
+
+
 
         }
-
-
-
-    }//end
+    }
 }
