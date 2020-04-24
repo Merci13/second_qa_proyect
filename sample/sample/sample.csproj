@@ -35,10 +35,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Tests.cs" />
+    <Compile Include="TestsLogin.cs" />
+    <Compile Include="PlatformQuery.cs" />
+    <Compile Include="BaseTestFixture.cs" />
+    <Compile Include="BasePage.cs" />
+    <Compile Include="AppManager.cs" />
+    <Compile Include="Pages\LoginPage.cs" />
+    <Compile Include="TestEmailOrUser.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Pages\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
