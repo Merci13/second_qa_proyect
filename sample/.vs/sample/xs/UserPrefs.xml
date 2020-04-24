@@ -1,17 +1,20 @@
 ﻿<Properties StartupConfiguration="{E22E0FF3-89A5-4E27-8B4C-3B06E9C581AE}|Unit Tests">
   <MonoDevelop.Ide.ItemProperties.sample PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="sample/TestEmailOrUser.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sample/Pages/EmailOrUserPage.cs">
     <Files>
-      <File FileName="sample/Tests.cs" Line="24" Column="2" />
-      <File FileName="sample/TestEmailOrUser.cs" Line="12" Column="1" />
+      <File FileName="sample/Tests.cs" Line="26" Column="5" />
+      <File FileName="sample/TestEmailOrUser.cs" Line="22" Column="1" />
+      <File FileName="sample/Pages/EmailOrUserPage.cs" Line="1" Column="14" />
+      <File FileName="sample/Pages/LoginPage.cs" Line="3" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="sample" expanded="True">
             <Node name="sample" expanded="True">
-              <Node name="Pages" expanded="True" />
-              <Node name="TestEmailOrUser.cs" selected="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="EmailOrUserPage.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

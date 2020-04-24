@@ -42,6 +42,7 @@
     <Compile Include="AppManager.cs" />
     <Compile Include="Pages\LoginPage.cs" />
     <Compile Include="TestEmailOrUser.cs" />
+    <Compile Include="Pages\EmailOrUserPage.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

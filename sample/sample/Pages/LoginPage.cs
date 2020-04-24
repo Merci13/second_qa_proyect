@@ -33,7 +33,7 @@ namespace sample.Pages
 
         public void SelectLoginButton()
         {
-           // app.WaitForElement(loginButton);
+           app.WaitForElement(loginButton);
             app.Tap(loginButton);
         }
 

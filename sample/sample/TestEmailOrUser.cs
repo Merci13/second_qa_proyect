@@ -1,5 +1,6 @@
 ﻿using System;
 using NUnit.Framework;
+using sample.Pages;
 using Xamarin.UITest;
 
 namespace sample
@@ -13,13 +14,15 @@ namespace sample
 
 
         }
-            [Test]
-        public void ClickLogInButton()
+         [Test]
+        public void ClickNextButtonToLogIn()
         {
-            //app.Repl();
-
+     
             new LoginPage().SelectLoginButton();
-
+            // new EmailOrUserPage().SelectLoginButton();
+            new EmailOrUserPage().addTextToEmailOrUserNameTextField();
+              app.Repl();
+           
 
         }
 
