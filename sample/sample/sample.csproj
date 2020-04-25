@@ -47,6 +47,12 @@
     <Compile Include="addCardToTestBoardPageTest.cs" />
     <Compile Include="AddListTest.cs" />
     <Compile Include="Pages\AddListToBoardPage.cs" />
+    <Compile Include="Pages\AddCardToListPage.cs" />
+    <Compile Include="AddCardToTestListTest.cs" />
+    <Compile Include="Pages\EditNameOfCardTestPage.cs" />
+    <Compile Include="EditNameOfCardTest.cs" />
+    <Compile Include="DeleteCurrentCard.cs" />
+    <Compile Include="Pages\DeletingCurrentCardPage.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

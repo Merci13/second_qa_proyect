@@ -1,18 +1,21 @@
 ﻿<Properties StartupConfiguration="{E22E0FF3-89A5-4E27-8B4C-3B06E9C581AE}|Unit Tests">
   <MonoDevelop.Ide.ItemProperties.sample PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="sample/AddListTest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sample/Pages/DeletingCurrentCardPage.cs">
     <Files>
-      <File FileName="sample/AddListTest.cs" Line="26" Column="43" />
-      <File FileName="sample/Pages/AddListToBoardPage.cs" Line="31" Column="45" />
-      <File FileName="sample/Pages/AddCardToTestBoardPage.cs" Line="52" Column="11" />
+      <File FileName="sample/AddCardToTestListTest.cs" Line="29" Column="53" />
+      <File FileName="sample/EditNameOfCardTest.cs" Line="20" Column="12" />
+      <File FileName="sample/Pages/EditNameOfCardTestPage.cs" Line="2" Column="1" />
+      <File FileName="sample/DeleteCurrentCard.cs" Line="25" Column="31" />
+      <File FileName="sample/Pages/DeletingCurrentCardPage.cs" Line="2" Column="93" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="sample" expanded="True">
             <Node name="sample" expanded="True">
-              <Node name="Pages" expanded="True" />
-              <Node name="AddListTest.cs" selected="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="DeletingCurrentCardPage.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -23,10 +26,11 @@
             <Node name="sample" expanded="True">
               <Node name="sample" expanded="True">
                 <Node name="addCardToTestBoardPageTest(Android)" expanded="True" />
-                <Node name="AddListTest(Android)" expanded="True">
-                  <Node name="ClickOnTestBoard" selected="True" />
+                <Node name="AddCardToTestListTest(Android)" expanded="True" />
+                <Node name="AddListTest(Android)" expanded="True" />
+                <Node name="EditNameOfCardTest(Android)" expanded="True">
+                  <Node name="EditNameOfCard" selected="True" />
                 </Node>
-                <Node name="TestEmailOrUser(Android)" expanded="True" />
                 <Node name="Tests(Android)" expanded="True" />
               </Node>
             </Node>

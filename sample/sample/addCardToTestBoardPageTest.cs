@@ -16,12 +16,13 @@ namespace sample
         }
 
         [Test]
-        public void ClickOnTestBoard() {
+        public void addCardToTestBoard() {
 
             new LoginPage().SelectLoginButton();
             // new EmailOrUserPage().SelectLoginButton();
             new EmailOrUserPage().addTextToEmailOrUserNameTextField();
             new AddCardToTestBoardPage().ClickTestBoard();
+            
             
         }
 

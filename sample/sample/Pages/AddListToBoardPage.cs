@@ -40,14 +40,15 @@ namespace sample.Pages
 
 
         public void AddListToBoardAction() {
-           
+        
             app.WaitForElement(addListToBoardButton);
             app.Tap(addListToBoardButton);
             app.WaitForElement(editingCardList);
             app.EnterText("testList");
             app.WaitForElement(approveListButton);
+          
             app.Tap(approveListButton);
-             app.Repl();
+            //app.Repl();
 
 
         }

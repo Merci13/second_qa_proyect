@@ -21,6 +21,7 @@ namespace sample.Pages
             Android = x => x.Id("boards_container")
 
         };
+
         public AddCardToTestBoardPage()
         {
             if (OnAndroid)

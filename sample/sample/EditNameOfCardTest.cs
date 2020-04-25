@@ -5,29 +5,28 @@ using Xamarin.UITest;
 
 namespace sample
 {
+
     //Fixture used for Android
     [TestFixture(Platform.Android)]
-    public class AddListTest : BaseTestFixture
+    public class EditNameOfCardTest : BaseTestFixture
     {
-
-        public AddListTest(Platform platform) : base(platform)
+        public EditNameOfCardTest(Platform platform) : base(platform)
         {
-
         }
 
         [Test]
-        public void ClickOnTestBoard()
-        {
+        public void EditNameOfCard() {
 
             new LoginPage().SelectLoginButton();
             // new EmailOrUserPage().SelectLoginButton();
             new EmailOrUserPage().addTextToEmailOrUserNameTextField();
             new AddCardToTestBoardPage().ClickTestBoard();
             new AddListToBoardPage().AddListToBoardAction();
-
-
+            new AddCardToListPage().AddCardToListTestAction();
+            new EditNameOfCardTestPage().EditingCardInTheList();
 
 
         }
+
     }
 }
